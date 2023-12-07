@@ -5,3 +5,8 @@ vless://894382b0-9376-11ee-8ff2-1239d0255272@w3.whatsapp.com:80?path=%2Fvlws&sec
 vless://894382b0-9376-11ee-8ff2-1239d0255272@www.udemy.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#Edukasi+%2F+Belajar+%28all+opr%29
 vless://894382b0-9376-11ee-8ff2-1239d0255272@investor.fb.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#Facebook+%28+all+opr+%29
 vless://894382b0-9376-11ee-8ff2-1239d0255272@ovo.id:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#%E2%95%90L%E2%95%90O%E2%95%90A%E2%95%90D%E2%95%90I%E2%95%90N%E2%95%90G%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90
+
+
+
+
+vmess://eyJhZGQiOiJpbnZlc3Rvci5mYi5jb20iLCJhaWQiOiIwIiwiaG9zdCI6Imxpbm9kZS5tYWRld2duLmV1Lm9yZyIsImlkIjoiZjhiNDEyOGQtOGFjOC00MGI4LThjM2ItOTYzYjc1ZTVmNTVjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJTR0wgMTYuMjUgRkFDRUJPT0siLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
